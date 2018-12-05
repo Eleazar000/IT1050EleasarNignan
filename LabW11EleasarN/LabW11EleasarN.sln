@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabW11EleasarN", "LabW11EleasarN\LabW11EleasarN.csproj", "{BCD47D6B-1BD9-43EB-A5EE-7283B104252A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD47D6B-1BD9-43EB-A5EE-7283B104252A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD47D6B-1BD9-43EB-A5EE-7283B104252A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD47D6B-1BD9-43EB-A5EE-7283B104252A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD47D6B-1BD9-43EB-A5EE-7283B104252A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F328B887-0ED4-40AD-B1D9-93DA19660ABF}
+	EndGlobalSection
+EndGlobal
